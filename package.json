@@ -1,0 +1,26 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "this is a gulp statar kit workflow while you can use it for initial project quickly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omelab/gulp-workflow.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-workflow",
+    "gulp",
+    "sater",
+    "kit"
+  ],
+  "author": "omelab @Abu Bakar Siddique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omelab/gulp-workflow/issues"
+  },
+  "homepage": "https://github.com/omelab/gulp-workflow#readme"
+}
